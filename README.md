@@ -1,10 +1,10 @@
 <!-- HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00f7ff&height=200&section=header&text=ANKIT&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00f7ff&height=200&section=header&text=IX-RAJ&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">⚡ ANKIT RAJ | Full Stack Developer ⚡</h1>
+<h1 align="center">⚡ Full Stack Developer ⚡</h1>
 
 <!-- ✅ FIXED: Better sentences in typing SVG -->
 
@@ -17,7 +17,7 @@
 ## 🧊 About Me
 
 ```yaml
-Name:            Ankit
+Name:            Ankit Raj
 Role:            Full Stack Developer
 Focus:           Building useful real-world applications
 Philosophy:      Systems should simplify life, not complicate it
@@ -42,18 +42,20 @@ Philosophy:      Systems should simplify life, not complicate it
 
 ## 🎮 Featured Projects
 
-### 🧠 DSA-HUB
+<img width="1919" height="1103" alt="LandingPagedsahub (2)" src="https://github.com/user-attachments/assets/3d1851ae-1548-407b-8393-5e143812f6df" />
 
+### 🧠 DSA-HUB
 🔗 https://dsa-hub-nine.vercel.app/
 💻 https://github.com/ix-raj/DSA-Hub
 
 > A smart DSA practice platform
-
 * 🎯 Generate custom problem sets based on topics
 * 🔁 Practice & revision modes
 * 🔥 Streak tracking system
 
 ---
+
+<img width="1919" height="1103" alt="Screenshot 2026-04-04 022708" src="https://github.com/user-attachments/assets/f907684e-ffd2-420b-bc13-9c9c23d3f109" />
 
 ### 📚 Course-Flow
 
@@ -68,6 +70,8 @@ Philosophy:      Systems should simplify life, not complicate it
 
 ---
 
+<img width="1919" height="1045" alt="Screenshot 2026-04-04 030548" src="https://github.com/user-attachments/assets/cde95134-1073-49e2-9416-f0fb39c74b50" />
+
 ### 🎬 Chrono-Stream
 
 🔗 https://chrono-stream-drab.vercel.app/
@@ -78,17 +82,6 @@ Philosophy:      Systems should simplify life, not complicate it
 * 🕒 Chronological franchise viewing
 * 🎨 Rich artwork and cast info
 * 📺 Streaming availability
-
----
-
-## 📊 System Stats
-
-<!-- ✅ FIXED: visibility issues (removed bg conflicts) -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ix-raj&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ix-raj&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
 
 ---
 
