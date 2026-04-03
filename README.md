@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00f7ff&height=200&section=header&text=ANKIT&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">⚡ ANKIT | Full Stack Developer ⚡</h1>
+<h1 align="center">⚡ ANKIT RAJ | Full Stack Developer ⚡</h1>
 
 <!-- ✅ FIXED: Better sentences in typing SVG -->
 
@@ -17,10 +17,10 @@
 ## 🧊 About Me
 
 ```yaml
-Name:        Ankit
-Role:        Full Stack Developer
-Focus:       Building useful real-world applications
-Philosophy: "Systems should simplify life, not complicate it"
+Name:            Ankit
+Role:            Full Stack Developer
+Focus:           Building useful real-world applications
+Philosophy:      Systems should simplify life, not complicate it
 ```
 
 <p align="center">
