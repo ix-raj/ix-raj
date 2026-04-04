@@ -6,7 +6,7 @@
 
 <h1 align="center">⚡ Full Stack Developer ⚡</h1>
 
-<!-- ✅ FIXED: Better sentences in typing SVG -->
+<!-- Typing SVG -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3500&color=7C3AED&center=true&vCenter=true&width=750&lines=I+build+systems+that+add+real+value;Designing+clean+and+scalable+applications;Turning+ideas+into+structured+products;Focused+on+real+world+problem+solving" />
@@ -14,31 +14,50 @@
 
 ---
 
-## 🧊 About Me
+## 🧊 About Me  
 
-```yaml
-Name:            Ankit Raj
-Role:            Full Stack Developer
-Focus:           Building useful real-world applications
-Philosophy:      Systems should simplify life, not complicate it
+```bash
+> builds: systems that simplify real-world workflows
+> focus: structured applications & meaningful products
+> approach: clean architecture + intuitive UI
+> mindset: systems over features
 ```
 
-<p align="center">
-🧠 Deep thinker who connects concepts instead of memorizing  
-⚙️ Systems builder focused on scalable design  
-🎨 UI perfectionist with attention to detail  
-🚀 Building products that genuinely improve workflows  
+<p align="center"> 🧠 Systems thinker • ⚙️ Scalable builder • 🎨 UI focused </p> <p align="center"> 🚀 Creating products that simplify learning and workflows </p>
+
+---
+<br>
+
+## ⚡ Tech Stack  
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,python,bash" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
+</p>
+
+### ⚙️ Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql" />
+</p>
+
+### 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
 
 ---
 
-## ⚡ Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,tailwind,git,github,vscode,postman&theme=dark" />
+⚡ Full-stack development focused on clean architecture, scalable systems, and intuitive UI
 </p>
 
 ---
+<br>
 
 ## 🎮 Featured Projects
 
@@ -116,13 +135,10 @@ Philosophy:      Systems should simplify life, not complicate it
 
 ## 🐍 Contribution Matrix
 
-<!-- ✅ FIXED: Added fallback note -->
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/ix-raj/ix-raj/output/github-contribution-grid-snake.svg" />
 </p>
 
-<!-- NOTE: This only works after GitHub Action setup -->
 
 ---
 
