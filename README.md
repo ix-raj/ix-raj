@@ -109,7 +109,7 @@ Philosophy:      Systems should simplify life, not complicate it
 ## 🔥 Activity Stream
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ix-raj&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ix-raj&theme=tokyonight&hide_border=true&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed" />
 </p>
 
 ---
@@ -126,20 +126,38 @@ Philosophy:      Systems should simplify life, not complicate it
 
 ---
 
-## 🌐 Connect
+
+## 🌐 Connect With Me  
 
 <p align="center">
 
 <a href="https://github.com/ix-raj">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />      &nbsp;&nbsp;
 </a>
 
-<!-- ✅ FIXED: LinkedIn visible -->
+<a href="mailto:ankitraj5024@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />        &nbsp;&nbsp;
+</a>
 
 <a href="https://www.linkedin.com/in/ankit-raj-i27/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+
+</p>
+
+---
+
+<p align="center">
+💬 Open to collaboration on meaningful and impactful projects  
+🚀 Interested in building systems that improve real-world workflows  
+</p>
+
+<p align="center">
+📌 Reach out for:
+- Full-stack development collaborations  
+- Building useful products  
+- Tech discussions & idea exchange  
 </p>
 
 ---
